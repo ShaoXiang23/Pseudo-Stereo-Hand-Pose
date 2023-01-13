@@ -1,0 +1,3 @@
+# ninja log v5
+0	6496	1666079612834353775	/home/robot/gsx/aanet/nets/deform_conv/build/temp.linux-x86_64-3.8/src/deform_conv_cuda_kernel.o	3ec00b396d5ba9ff
+0	14683	1666079621014492069	/home/robot/gsx/aanet/nets/deform_conv/build/temp.linux-x86_64-3.8/src/deform_conv_cuda.o	195ee33267f8e99e

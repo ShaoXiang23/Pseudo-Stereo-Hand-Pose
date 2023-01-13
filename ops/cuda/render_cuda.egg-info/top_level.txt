@@ -1,0 +1,2 @@
+depth_to_point_cloud_mask_cuda
+point_cloud_mask_to_depth_cuda

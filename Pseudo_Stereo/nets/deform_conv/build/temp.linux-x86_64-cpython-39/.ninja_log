@@ -1,0 +1,3 @@
+# ninja log v5
+0	10992	1667910025304613446	/home/robot/gsx/semi_hand_understand/Pseudo_Stereo/nets/deform_conv/build/temp.linux-x86_64-cpython-39/src/deform_conv_cuda.o	460cd846c0bd4c91
+0	11553	1667910025864616954	/home/robot/gsx/semi_hand_understand/Pseudo_Stereo/nets/deform_conv/build/temp.linux-x86_64-cpython-39/src/deform_conv_cuda_kernel.o	de21a9ed2d84a0fc
