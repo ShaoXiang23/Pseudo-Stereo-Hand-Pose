@@ -8,7 +8,7 @@ The codes for "PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estim
 
 Shaoxiang Guo*, Qing Cai*, Wankun Chen*, Jingyi Sun*, Lin Qi*, Hui Yu†, Junyu Dong*
 
-\* School of Computer Science and Technology, Ocean University of China, 238 Songling Road, Qingdao, China. (Corresponding authors: Qing Cai and Junyu Dong)
+\* School of Computer Science and Technology, Ocean University of China, 238 Songling Road, Qingdao, China. 
 † School of Creative Technologies, University of Portsmouth, Portsmouth PO1 2DJ, U.K.
 
 ### Root-absolute HPSE
