@@ -1,8 +1,8 @@
 ## PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estimation from Monocular Image
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img width="720" alt="motivation" src="https://github.com/ShaoXiang23/Pseudo-Stereo-Hand-Pose/assets/48667632/a5fb3c2d-6f18-42df-be7a-192cf0db2c7b">
-</div>
+<p align="center">
+  <img width="720" alt="motivation" src="https://github.com/ShaoXiang23/Pseudo-Stereo-Hand-Pose/assets/48667632/a5fb3c2d-6f18-42df-be7a-192cf0db2c7b">
+</p>
 
 The codes for "PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estimation from Monocular RGB".
 
