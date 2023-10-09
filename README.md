@@ -1,12 +1,10 @@
 ## PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estimation from Monocular Image
 The codes for "PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estimation from Monocular RGB".
 
-Shaoxiang Guo<sup>1</sup>, Qing Cai<sup>1</sup>, Wankun Chen<sup>1</sup>, Jingyi Sun<sup>1</sup>, Lin Qi<sup>1</sup>, Hui Yu<sup>2</sup>, Junyu Dong<sup>1</sup>
+Shaoxiang Guo†, Qing Cai†, Wankun Chen†, Jingyi Sun†, Lin Qi†, Hui Yu‡, Junyu Dong†
 
-<sup>1</sup>School of Computer Science and Technology, Ocean University of China, 238 Songling Road, Qingdao, China. (Corresponding authors: Qing Cai and Junyu Dong)
-
-<sup>2</sup>School of Creative Technologies, University of Portsmouth, Portsmouth PO1 2DJ, U.K.
-
+† School of Computer Science and Technology, Ocean University of China, 238 Songling Road, Qingdao, China. (Corresponding authors: Qing Cai and Junyu Dong)
+‡ School of Creative Technologies, University of Portsmouth, Portsmouth PO1 2DJ, U.K.
 
 ### Root-absolute HPSE
 FreiHAND dataset evaluation results.
