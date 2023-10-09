@@ -11,6 +11,11 @@ Shaoxiang Guo*, Qing Cai*, Wankun Chen*, Jingyi Sun*, Lin Qi*, Hui Yu†, Junyu 
 \* School of Computer Science and Technology, Ocean University of China, 238 Songling Road, Qingdao, China. 
 † School of Creative Technologies, University of Portsmouth, Portsmouth PO1 2DJ, U.K.
 
+### Quantitative Evaluation on Root-absolute HPSE
+<p align="center">
+  <img width="480" alt="RA_pck" src="https://github.com/ShaoXiang23/Pseudo-Stereo-Hand-Pose/assets/48667632/1d6a61aa-128c-47a5-9afb-0c4bddcfae4d">
+</p>
+
 ### Root-absolute HPSE
 FreiHAND dataset evaluation results.
 
