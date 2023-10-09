@@ -1,12 +1,15 @@
 ## PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estimation from Monocular Image
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img width="720" alt="motivation" src="https://github.com/ShaoXiang23/Pseudo-Stereo-Hand-Pose/assets/48667632/a5fb3c2d-6f18-42df-be7a-192cf0db2c7b">
+</div>
+
 The codes for "PS-HPSE: Pseudo Stereo for Camera Space Hand Pose and Shape Estimation from Monocular RGB".
 
-<center>
-    <img width="720" alt="motivation" src="https://github.com/ShaoXiang23/Pseudo-Stereo-Hand-Pose/assets/48667632/a5fb3c2d-6f18-42df-be7a-192cf0db2c7b">
-</center>
-
+### Authors:
 Shaoxiang Guo*, Qing Cai*, Wankun Chen*, Jingyi Sun*, Lin Qi*, Hui Yu†, Junyu Dong*
 
+### Affiliations:
 \* School of Computer Science and Technology, Ocean University of China, 238 Songling Road, Qingdao, China. (Corresponding authors: Qing Cai and Junyu Dong)
 
 † School of Creative Technologies, University of Portsmouth, Portsmouth PO1 2DJ, U.K.
